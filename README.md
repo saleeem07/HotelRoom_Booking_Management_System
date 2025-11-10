@@ -2,8 +2,6 @@
 
 ![Made with C](https://img.shields.io/badge/Made%20with-C-blue?style=for-the-badge&logo=c)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-💖-brightgreen?style=for-the-badge)
 
 > **A simple and efficient C program for managing hotel room bookings, checkouts, and availability.**
 
